@@ -29,6 +29,7 @@ public class LoginTest {
 		driver.findElement(By.xpath("//span[@class='RveJvd snByac']")).click();
 		System.out.println(driver.getTitle());
 		System.out.println("Hello");
+		System.out.println("Hi");
 		
 	}
 
