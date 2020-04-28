@@ -28,7 +28,7 @@ public class LoginTest {
 		driver.findElement(By.id("identifierId")).sendKeys("divyapeddakotla@gmail.com");
 		driver.findElement(By.xpath("//span[@class='RveJvd snByac']")).click();
 		System.out.println(driver.getTitle());
-		System.out.println("Hello");
+		
 		System.out.println("Hi");
 		System.out.println("How r u");
 		System.out.println("Made chandes in develop branch");
