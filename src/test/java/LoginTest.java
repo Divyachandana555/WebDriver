@@ -30,6 +30,7 @@ public class LoginTest {
 		System.out.println(driver.getTitle());
 		System.out.println("Hello");
 		System.out.println("Hi");
+		System.out.println("How r u");
 		
 	}
 
